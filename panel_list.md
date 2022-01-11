@@ -1,134 +1,155 @@
-Acrux  
-Agent Tesla  
+AbSent Loader
+Ab-Stealer
+Acrux
+Agent Tesla
+Agent Tesla
+Agent Tesla
+Agent Tesla / Mana
 AlienBot
-Alina 
-Amadey  
-Anubis Variant  
+Alina
+Amadey
+Amadey
+Anubis Variant
 Ares
-Arkei  
-Arkeiv9  
+Arkei
+Arkeiv9
 ArminsBot
-Ars Loader  
+Ars Loader
 AspireStealer
-Athena HTTP  
+Athena HTTP
 ATS
 Aurora Loader
-Avalon  
-Azorult  
-BackStage  
-Baldr v2.x  
-Baldr v3.0  
+Avalon
+Azorult
+BackStage
+Baldr v2.x
+Baldr v3.0
 BetaBot
 BlackNET
 BlackRock
-Bloody
-Blue Bot  
-BOMJProject
-Buer
-CampoLoader
-Citadel  
-CoalaBot  
+Bloody Stealer
+Blue Bot
+BOMJProject (Sakari Stealer)
+Borr
+Buer Loader
+Campo Loader
+Citadel
+CoalaBot
 CodePro
-Colibri  
-Comet Bot  
-Cyborg  
+Colibri
+Comet Bot
+Cyborg
 Cythosia
-DarkRat  
-DarkVNC  
+DarkRat
+DarkVNC
 DiamondFox / Gorynch
-DimaondFox / Renard  
+DiamondFox / Renard
 DT-stealer
-Eredel  
+Eredel
 Ermac
+EvilBear
 Evrial
+File Stealer
 FinderBot
 FormBook
 Fox Stealer Mod
 Fox Stealer v0.1
 Fox Stealer v0.2
 Fox Stealer v0.3
-Fucus
-Gaudox  
+Fucus Stealer
+Gaudox
 Gazorp
 GlitchPOS
 GoBrut / StealthWorker
-Godzilla  
-Golden Phoenix  
+GoBrut / StealthWorker
+Godzilla
+Golden Phoenix
+Gomorrah Lite
 Gomorrah Stealer
+Gomorrah Stealer v4
 Grim Agent
-HawkEye  
+HawkEye
 Hawkeye (old, previously DataLog)
 Hijalyh
-HVNC  
-IceIX  
+HVNC
+HVNC
+IceIX
 ISRS Stealer / ISRS
-IStealer  
-JackPOS  
-JSPSpy1.0  
+ISRS Stealer / ISRS
+IStealer
+JackPOS
+JSPSpy1.0
 Jupyter
-Kardon Loader  
-Katrina  
-Keitaro TDS  
-Keybase  
-Kpot 
-Kratos  
+Kardon Loader
+Katrina
+Keitaro TDS
+Keybase
+Kpot
+Kpot
+Kratos
 Krypton Stealer
 Lilith
-Liphyras
-LiteHTTP 
-Lokibot 
+Liphyra
+LiteHTTP
+Lokibot
+Lokibot
 Lucifer
 Madness
-MAjikPOS 
-Mars
+MajikPOS
+Mars Stealer
 MassLogger
-MegalodonHTTP 
-Megumin 
-MysteryBot 
-MysticalNet 
-N0F1l3 / 1ms0rry 
+Matanbuchus
+MegalodonHTTP
+Megumin
+MysteryBot
+MysticalNet
+N0F1l3 / 1ms0rry
 N0peSystems
-Nemty 
-NetSky 
+Nemty
+NetSky
 Neutrino
 NewDDOSBot
 Nikki Stealer
-NovaHTTP 
-NovoBot 
+NovaHTTP
+NovoBot
 Octopus
-Oski 
-Panda (Android bot)
-Panda Banker  
+Oski
+Panda (Android Bot)
+Panda Banker
 Panda Bot
-ParasiteHTTP  
+ParasiteHTTP
 Pingu
-Pony  
-Predator The Thief  
+Pony
+Predator The Thief
 ProtonBot
 PurpleWave
 QuantLoader
-Qudox  
-Racoon 3000  
-Racoon Stealer  
-Rarog  
+Qudox
+Raccoon 3000
+Raccoon Stealer
+Rarog
 Riltok
-Saint  
+s0rryCoins
+Saint
 Sarwent
 SethLoader
-SpyAgent  
-SpyEye  
+SpyAgent
+SpyAgent 1.2
+SpyEye
+Tables
 Taurus
 ThiefBot
 TreasureHunter
 TRON Project
-TSLAB  
-Ursnif  
+TSLAB
+TV Rat
+Ursnif
 Vertex
 Vidar
 Vulturi
-Warbot
+WarBot
 xKeyScore
-ZeroBot  
+ZeroBot
 Zeus
 ZyklonHTTP
 ZyklonLoader
