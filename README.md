@@ -399,6 +399,10 @@ MassLogger:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/MassLogger.png "MassLogger")
 
+Matanbuchus:
+
+![alt text](https://github.com/iSpyNet/what_is_this_c2/blob/master/images/Matanbuchus.png "Matanbuchus")
+
 MegalodonHTTP:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/megalodonHTTP.png "MegalodonHTTP")
